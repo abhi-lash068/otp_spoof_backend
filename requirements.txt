@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+datasets
+torch
+transformers
+scikit-learn
+joblib
+numpy
